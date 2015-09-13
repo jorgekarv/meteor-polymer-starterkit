@@ -1,0 +1,9 @@
+<template name="publicLayout">
+  {{#globalLayout}}
+
+      {{> publicHeader}}
+      {{> yield}}
+      {{> yield "footer"}}
+
+  {{/globalLayout}}
+</template>
