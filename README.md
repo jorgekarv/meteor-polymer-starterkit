@@ -11,8 +11,6 @@
 
 This is a starting kit for Meteor and Polymer 1.0, based on "Differential Polymer Demo" and "Polymer Starter Kit".
 
-Sign In and Sign Up will be here soon.
-
 ## Links
 
 https://developers.google.com/web/tools/polymer-starter-kit/
